@@ -16,10 +16,8 @@ DX = 2e4 * 1e-3
 DT = 30
 
 L = DX*N
-print(L)
 T = DT*M
-print(T)
-print(T/3600)
+
 
 
 def get_cs(temperature):
